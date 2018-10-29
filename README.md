@@ -1,4 +1,5 @@
-# Level Up Tutorials JavaScript Testing 101
+React Testing For Beginners
+github.com/leveluptuts/Level-Up-JavaScript-Testing-101
 
 ## Help Support
 
